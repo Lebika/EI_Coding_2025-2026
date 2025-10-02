@@ -1,6 +1,6 @@
-# 🛰️ Mars Rover Simulation
+#  Mars Rover Simulation
 
-## 📘 Overview
+##  Overview
 This project simulates the movement of a **Mars Rover** navigating a rectangular grid.  
 The rover can:
 - Move forward,
@@ -51,4 +51,5 @@ It avoids `if-else` conditionals for command execution, relying instead on **pol
 ```bash
 javac *.java
 java Main
+
 
